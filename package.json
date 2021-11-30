@@ -1,0 +1,27 @@
+{
+  "name": "climate-change-api",
+  "version": "0.1.0",
+  "description": "The Climate Data API provides programmatic access to most of the climate data used on the World Bank's Climate Change Knowledge Portal.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silva-thiago/climate-change-api.git"
+  },
+  "keywords": [
+    "nodejs",
+    "babel",
+    "axios",
+    "express",
+    "cheerio",
+    "eslint"
+  ],
+  "author": "Thiago Silva <thiago.silva@imd.ufrn.br> (https://silva-thiago.github.io)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silva-thiago/climate-change-api/issues"
+  },
+  "homepage": "https://github.com/silva-thiago/climate-change-api#readme"
+}
