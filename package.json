@@ -1,7 +1,7 @@
 {
 	"name": "climate-change-api",
 	"packageManager": "yarn@3.1.1",
-	"version": "0.2.0",
+	"version": "0.3.0",
 	"description": "The Climate Data API provides programmatic access to most of the climate data used on the World Bank's Climate Change Knowledge Portal.",
 	"main": "src/index.js",
 	"keywords": [
